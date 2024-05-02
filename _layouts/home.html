@@ -3,11 +3,10 @@ layout: default
 ---
 <div class="home">
     <section class="intro">
-        <h2>Welcome to Code And Candlesticks</h2>
-        <p>Where we explore the intersection of coding and stock trading where technology meets the market. By {{ site.author }}, coder, trader.</p>
+        <p>Where we explore the intersection of coding and stock trading where technology meets the market.</p>
     </section>
     <section class="recent-works">
-        <h2>Recent Works</h2>
+        <h2>Our Blog</h2>
         {% for post in site.posts limit:3 %}
             <div>
                 <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
