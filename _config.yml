@@ -1,0 +1,14 @@
+title: Code And Candlesticks
+email: luispe@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Coding Strategies, Trading Markets: Blending Passions for Innovation
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://codeandcandlesticks.com" # the base hostname & protocol for your site
+
+github_username:  luispic2021
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
