@@ -5,12 +5,13 @@
 title: CodeAndCandlesticks
 email: luispe@gmail.com
 description: >-
-  Explore the intersection of technology and trading at CodeAndCandlesticks. Dive into my journey as a software developer and trader, showcasing custom tools, trading strategies, and insights into fintech product management.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+  Explore the intersection of technology and trading at CodeAndCandlesticks. Dive into my journey as a software developer and trader, showcasing custom tools, and trading strategies.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codeandcandlesticks.com" # the base hostname & protocol for your site
 
 # Social Media Settings
 github_username:  luispic2021
+github_organization: CodeAndCandlesticks
 linkedin_url: https://www.linkedin.com/in/luispic/
 instagram_url: https://www.instagram.com/tsl_trader
 
