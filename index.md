@@ -1,10 +1,8 @@
 ---
 layout: home
-title: Home
+title: Welcome to CodeAndCandlesticks
 permalink: /
 ---
-
-# Welcome to CodeAndCandlesticks
 
 Hello! I’m Luis, a seasoned product manager, software engineer, and avid stock market trader. At CodeAndCandlesticks, I blend my technical skills with my passion for the stock market to delve into the intricacies of trading strategies and software solutions.
 
