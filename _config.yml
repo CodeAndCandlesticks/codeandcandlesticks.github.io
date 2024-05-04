@@ -19,6 +19,7 @@ instagram_url: https://www.instagram.com/tsl_trader
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-target-blank
 
 # Exclude from processing.
 # The following items will not be processed, by default.
