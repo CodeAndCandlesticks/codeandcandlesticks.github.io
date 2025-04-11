@@ -28,8 +28,6 @@ I'm not all tech and trading. Outside of work, I'm a dedicated father and an ent
 
 "El fracaso está garantizado, si no se hace el intento." - Failure is guaranteed if you never try.
 
-<img src="https://media.licdn.com/dms/image/C5603AQFfSKkEzcas1A/profile-displayphoto-shrink_800_800/0/1591676877165?e=1720051200&v=beta&t=fzGpMxVAd0Mq0m9_9Q2Bw-R537E5loxiZDyjHMF-_OQ" alt="Professional Headshot" width="300" />  <!-- Adjust width as needed -->
-
 I invite you to connect with me through this platform or on [GitHub](https://github.com/luispic2021) or [LinkedIn](https://www.linkedin.com/in/luispic/).
 
 ---
